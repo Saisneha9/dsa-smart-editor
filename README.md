@@ -67,7 +67,7 @@ A *Java-based desktop text editor* that showcases the power of *Data Structures 
 1. Clone this repository:
 
    bash
-   git clone https://github.com/Saisneha9/smart-text-editor.git
+   git clone https://github.com/Saisneha9/dsa-smart-editor?tab=readme-ov-file
    
 
 2. Open the project in your favorite Java IDE (IntelliJ, Eclipse, NetBeans).
@@ -88,14 +88,7 @@ A *Java-based desktop text editor* that showcases the power of *Data Structures 
 * 🌐 Cloud save or collaboration features
 
 ---
-## 📸 Screenshots
 
-Add screenshots here to showcase the interface!
-
-markdown
-![Smart Text Editor Screenshot](/D:\texteditor.jpg)
-
----
 
 
 ## 🛡 License
